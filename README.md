@@ -10,12 +10,12 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/rafaelnunes34">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafaelnunes34&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelnunes34&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafaelnunes34&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelnunes34&layout=compact&langs_count=7&theme=dark">
 </div>
 <div>
   <h3>Skills</h3> 
-  <div style="display: inline-block"><br>
+  <div style="display: inline-block">
     <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Rafael-java">
     <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Rafael-spring">
     <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="Rafael-postgres">
@@ -33,6 +33,3 @@ Here are some ideas to get you started:
   <a href= "https://api.whatsapp.com/send?phone=5521974315563"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"</a>
   </div>
 </div>
-
-      
-
